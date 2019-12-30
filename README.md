@@ -1,2 +1,2 @@
-# Deadline
-## https://junmingke.github.io/Deadline/
+# Submission dates for cybersecurity conferences
+## https://junmingke.github.io/deadlines/
